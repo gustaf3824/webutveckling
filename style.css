@@ -1,0 +1,63 @@
+
+
+
+
+}
+
+  .wrapper{
+    margin:0 wheat;
+    display: grid;
+    grid-template-rows:80px 80px 50px;
+    gap:10px;
+    grid-template-areas:
+    "header"
+    "nav"
+    "main"
+    "footer";
+  }
+  {...}
+
+  header{
+    grid-area: header;
+    background-color: aliceblue;
+}
+
+nav{
+  grid-area: nav;
+  background-color: beige;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+nav a{
+    text-decoration: : none;
+}
+
+
+
+
+
